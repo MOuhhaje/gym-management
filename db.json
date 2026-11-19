@@ -1,0 +1,66 @@
+{
+  "members": [
+    {
+      "name": "Ahmed",
+      "email": "ahmed@example.com",
+      "phone": "0612345678",
+      "status": "active",
+      "id": "zVq1haw7Wn0"
+    },
+    {
+      "name": "oussama",
+      "email": "oussama@example.com",
+      "phone": "0612345678\t",
+      "status": "active",
+      "id": "7uC16aQlpvM"
+    },
+    {
+      "name": "hamza",
+      "email": "hamza@mail.com",
+      "phone": "0900000000",
+      "status": "active",
+      "id": "u1DtU-bTS1c"
+    },
+    {
+      "name": "Zinab",
+      "email": "zinab@mail.com",
+      "phone": "0600000000",
+      "status": "active",
+      "id": "8YWpIboX02w"
+    },
+    {
+      "name": "fatima",
+      "email": "fatima@mail.com",
+      "phone": "0600000000",
+      "status": "active",
+      "id": "_hs1bhUpaks"
+    },
+    {
+      "name": "fatima2",
+      "email": "fatima@mail.com",
+      "phone": "0600000000",
+      "status": "inactive",
+      "id": "60A0O_KKegY"
+    },
+    {
+      "name": "oussama1",
+      "email": "oussama@example.com",
+      "phone": "0900000000",
+      "status": "inactive",
+      "id": "HnR3j6VxkkM"
+    },
+    {
+      "name": "Zinab1",
+      "email": "zinab@mail.com",
+      "phone": "0600000000",
+      "status": "inactive",
+      "id": "fG3Ak2yIOvA"
+    }
+  ],
+  "coaches": [],
+  "plans": [],
+  "subscriptions": [],
+  "payments": [],
+  "attendances": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
